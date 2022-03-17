@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(184, 193, 234);
+  }
+  h1 {
+    color: rgb(255, 255, 255);
+    position: fixed;
+    top: 0;
+    left:10;
+    font-family: 'Courier New';
+    font-size: 100%;
+    text-align: center;
+}
+h2 {
+  position: fixed;
+  font-family: 'Courier New';
+  font-size: 100%;
+  bottom: 0;
+  right: 5;
+  text-align: center;
+}
+a:link {
+  color: rgb(255, 255, 255);
+  text-decoration: underline;
+}
+
+a:visited {
+  color: rgb(255, 255, 255);
+  text-decoration: underline;
+}
+
+a:hover {
+  color: rgb(255, 255, 255);
+  text-decoration: underline;
+}
+
+a:active {
+  color: rgb(255, 255, 255);;
+  text-decoration: underline;
+}
